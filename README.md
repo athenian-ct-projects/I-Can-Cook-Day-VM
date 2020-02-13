@@ -2,8 +2,6 @@
 
 written by VM '23
 
-edit with appropriate link:
-
 [![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/I-Can-Cook-Day-VM)](https://repl.it/github/athenian-ct-projects/I-Can-Cook-Day-VM)
 
 * Includes nutrition facts and recipes.
