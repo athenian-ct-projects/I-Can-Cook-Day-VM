@@ -1,9 +1,10 @@
-# Assignment Description
+# I Can Cook Day activity
 
-written by 
+written by VM '23
 
 edit with appropriate link:
 
-[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/Ambassador-Day-Game-VGE)](https://repl.it/github/athenian-ct-projects/Ambassador-Day-Game-VGE)
+[![Run on Repl.it](https://repl.it/badge/github/athenian-ct-projects/I-Can-Cook-Day-VM)](https://repl.it/github/athenian-ct-projects/I-Can-Cook-Day-VM)
 
-Add info about game here
+* Includes nutrition facts and recipes.
+* Needs editing - clean up print statements so they fit on the screen!
